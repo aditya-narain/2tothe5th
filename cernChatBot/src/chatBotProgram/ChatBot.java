@@ -5,7 +5,9 @@ import java.util.Scanner;
 
 /**
  * Simple chat bot with rhetorical Responses.<br/>
- * <i>Caution : For entertainment purpose only. Dont be too hard on it !!!</i>
+ * <i>Caution : For entertainment purpose only. Dont be too hard on it !!!</i><br/>
+ * This is essentially a 101/basic foundation topic in the field of Natural Language Dialogue Systems.<br/>
+ * Can be extended to give more witty responses with more complex probablistic model.
  * @author Aditya Narain
  */
 public class ChatBot {
