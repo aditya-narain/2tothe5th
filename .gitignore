@@ -1,0 +1,6 @@
+# Ignoring Defaults created in project#
+########################################
+.settings
+.classpath
+.project
+
